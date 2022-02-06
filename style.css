@@ -1,0 +1,12 @@
+header,article,form{
+    color: blue;
+    text-align: center;
+}
+fieldset,select{
+    color: red;
+}
+a:hover{
+    color: black;
+    background-color:           blueviolet  ;
+    backface-visibility:visible ;
+}
